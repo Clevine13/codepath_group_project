@@ -69,4 +69,24 @@ Optional:
 * Politics sections 
 Wire Frame Image: (https://user-images.githubusercontent.com/43858669/162976626-900fec12-c8bc-4748-956a-a92d41f8c38d.png)
 
+Models:
+Post
+Property	Type	Description
+objectId	String	unique id for the news sections
+author	Pointer to news author
+image	File	image that is used for news posts
+headline	String	newsa headline by author
+createdAt	DateTime	date when post is created (default field)
+updatedAt	DateTime	date when post is last updated (default field)
+
+Networking:
+
+List of network requests by screen
+Home Feed Screen
+(Read) Read in all the news data from news api endpoint 
+Selected Article Screen
+(Read) Get the extended contents of the selected news article for the user
+Full News Post Screen
+(Read) Get the Full dedicated news article from the api data for the user to read. 
+
 
