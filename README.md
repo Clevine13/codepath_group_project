@@ -68,7 +68,10 @@ Optional:
 * Life section
 * Politics sections 
 
-Wire Frame Image: (https://user-images.githubusercontent.com/43858669/162976626-900fec12-c8bc-4748-956a-a92d41f8c38d.png)
+HandWritten Wire Frame Image:(https://user-images.githubusercontent.com/43858669/162982625-fc61f7a1-4da2-4fc7-b48b-d757da50ac05.jpg)
+
+
+Digital Wire Frame Image: (https://user-images.githubusercontent.com/43858669/162976626-900fec12-c8bc-4748-956a-a92d41f8c38d.png)
 
 Models:
 Post
