@@ -67,3 +67,6 @@ Optional:
 * Beauty section 
 * Life section
 * Politics sections 
+Wire Frame Image: (https://user-images.githubusercontent.com/43858669/162976626-900fec12-c8bc-4748-956a-a92d41f8c38d.png)
+
+
