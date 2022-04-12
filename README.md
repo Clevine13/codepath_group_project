@@ -3,14 +3,6 @@ Unit 8: Group Milestone - README
 
 
 :::
-User Stories: 
-Complete setup for home screen recycler view [X]
-Created a tool bar with recycler view to display home screen topics[X]
-appropriately set up the card layout for the individual news in RV[X]
-created the RV for the further categories when selected a news article desiered area[X]
-Issue 1: Development of environment for project #1 [X]
-Issue 3: Create a tool bar and recycler view to display news areas #3[X]
-Issue 2: Creation of appropriate library builds and app permission functionalities #2[In Progress]
 
 # News App 
 
@@ -31,7 +23,15 @@ Tracks what music an individual listens to, and pairs them with others based on 
 - **Scope:** First we would start with the creation of the base hme page for the app then perhaps this could evolve into a application where the user can share or save specified articles. Large potential for use other publishing news applications to use.
 
 ## Product Spec
-### 1. User Stories (Required and Optional)
+Completed User Stories:
+Complete setup for home screen recycler view [X]
+Created a tool bar with recycler view to display home screen topics[X]
+appropriately set up the card layout for the individual news in RV[X]
+created the RV for the further categories when selected a news article desiered area[X]
+Issue 1: Development of environment for project #1 [X]
+Issue 3: Create a tool bar and recycler view to display news areas #3[X]
+Issue 2: Creation of appropriate library builds and app permission functionalities #2[In Progress]
+### 1. Overall User Stories (Required and Optional)
 
 **Required Must-have Stories**
 
