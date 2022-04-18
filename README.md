@@ -1,4 +1,4 @@
-Unit 8: Group Milestone - README
+Unit 9: Group Milestone - README
 ===
 
 
@@ -24,6 +24,13 @@ Tracks what music an individual listens to, and pairs them with others based on 
 
 ## Product Spec
 Completed User Stories:
+Created The RV Adapter for the articles that are generated [X]
+
+Created Successful get request for news article api with API key [X]
+
+Created the News modal to get correct information from API[X]
+
+Generated an API key for our news articles [x]
 
 Complete setup for home screen recycler view [X]
 
